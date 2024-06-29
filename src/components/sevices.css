@@ -1,0 +1,22 @@
+.title{
+    display: flex;
+    background-image: url(/public/Rectangle\ 20.png);
+    background-size: cover;
+    background-position-x: left;
+    background-position-y: 100%;
+    width: 100%;
+    height: 30rem;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+.title >h1{
+    color: #fff;
+    font-size: 7rem;
+    
+}
