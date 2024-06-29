@@ -1,5 +1,68 @@
 
 .main{
     background-image: url(/public/Rectangle\ 1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 90%;
     height: 70rem;
+    margin: auto;
 }
+.main > div{
+    padding: 10rem;
+
+}
+.main > div h1{
+    font-size: 6.5rem;
+    color: #fff;
+    margin-top: 30px;
+    margin-bottom: 2rem;
+}
+.main > div p{
+    color: #fff;
+    font-size: 2.2rem;
+}
+
+.main > div button{
+    font-size: inherit;
+    color: #fff;
+    padding: 1.5rem 3rem;
+    border: none;
+    border-radius: 10px;
+    background-color:#CDA274;
+    margin-top: 2rem;
+    cursor: pointer;
+
+}
+
+.readMore{
+    display: flex;
+    align-items: center;
+    margin: 5rem;
+    justify-content: space-around;
+
+}
+.readMore > div{
+    width: 30rem;
+    text-align: center;
+}
+
+.readMore > div p{
+    margin: 2rem;
+    line-height: 3.3rem;
+}
+
+.readMore > div button{
+    border: none;
+    background-color: inherit;
+    font-weight: 700;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
