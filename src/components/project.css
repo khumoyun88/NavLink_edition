@@ -1,0 +1,58 @@
+.titleProject{
+    background-image: url(/public/Rectangle\ 20.png);
+}
+
+.rooms{
+    width: 88rem;
+    margin: auto;
+    margin-block: 2rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+.rooms button{
+    width: 21rem;
+    height: 7.5rem;
+    border-radius: 1.8rem;
+    font-size: 1.8rem;
+    font-weight: 600;
+    border: none;
+    color: #000;
+    background-color: inherit;
+
+}
+
+.rooms button:hover{
+    color: #fff;
+    background-color: #CDA274;
+
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.card{
+    width: 58rem;
+    margin-inline: 2rem;
+}
+.card img{
+    width: 100%;
+
+}
+
+.card h4{
+    font-size: 2.8rem;
+    font-weight: 400;
+    margin-block: 4rem 1rem;
+}
+
+.card p{
+    font-size:2.2rem ;
+    font-weight: 400;
+
+}

@@ -9,7 +9,7 @@ function App() {
     <div>
       <Router>
         <header>
-          <h1>Sehello</h1>
+          <h1>Selhano</h1>
           <nav>
             <ul>
               <li>
